@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=STS (GTK2)
+GenericName=STS
+Comment=IDE for Java Spring development. Launcher uses GTK2 library
+Exec=sts
+Terminal=false
+Icon=/opt/sts-bundle/sts-3.8.3.RELEASE/icon.xpm
+Type=Application
+Categories=Application;Development;Java;IDE;
+X-Desktop-File-Install-Version=0.22

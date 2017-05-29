@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Eclipse Mars (GTK2)
+GenericName=Eclipse
+Comment=IDE for Java development. Launcher uses GTK2 library
+Exec=eclipse
+Terminal=false
+Icon=/opt/eclipse/icon.xpm
+Type=Application
+Categories=Application;Development;Java;IDE;
+X-Desktop-File-Install-Version=0.22
