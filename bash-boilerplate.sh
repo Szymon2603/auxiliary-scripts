@@ -14,7 +14,8 @@
 MAIN_DESC="Bash boilerplate script"
 
 # Description for help and invoke errors
-PARAMETERS_DESC="Parameters description:"
+PARAMETERS_DESC="Parameters description:
+                 -h|--help - help message\n"
 
 # Section for global variables and default values for example:
 # FORCE=false
